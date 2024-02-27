@@ -1,6 +1,6 @@
-# The Go Programming Language
+# The Jo Programming Language
 
-Go is an open source programming language that makes it easy to build simple,
+Jo is an open source programming language that makes it easy to build simple,
 reliable, and efficient software.
 
 ![Gopher image](https://golang.org/doc/gopher/fiveyears.jpg)
@@ -30,7 +30,7 @@ for source installation instructions.
 
 ### Contributing
 
-Go is the work of thousands of contributors. We appreciate your help!
+Jo is the work of thousands of contributors. We appreciate your help!
 
 To contribute, please read the contribution guidelines at https://go.dev/doc/contribute.
 
